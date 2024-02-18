@@ -1,6 +1,4 @@
-## Skills
-
-**Knowledged:**
+## Knowledged
 - **Selenium:**
 - **Pandas:**
 - **Matplotlib | Seaborn:**
